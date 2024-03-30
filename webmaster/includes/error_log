@@ -1,0 +1,1068 @@
+[03-Aug-2023 13:21:39 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 7
+[03-Aug-2023 13:21:39 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_campus.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_campus.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 11
+[03-Aug-2023 13:21:40 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 7
+[03-Aug-2023 13:21:40 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_event.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_event.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 11
+[03-Aug-2023 13:21:59 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 7
+[03-Aug-2023 13:21:59 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_gallery.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_gallery.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 11
+[03-Aug-2023 13:22:02 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 7
+[03-Aug-2023 13:22:02 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_news.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_news.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 11
+[03-Aug-2023 13:22:03 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 7
+[03-Aug-2023 13:22:03 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_prog.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_prog.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 11
+[03-Aug-2023 13:22:03 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 7
+[03-Aug-2023 13:22:03 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_pub.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_pub.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 11
+[03-Aug-2023 13:22:04 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 7
+[03-Aug-2023 13:22:04 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_school.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_school.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 11
+[03-Aug-2023 13:22:04 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 7
+[03-Aug-2023 13:22:04 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_slide.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_slide.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 11
+[03-Aug-2023 13:22:04 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 5
+[03-Aug-2023 13:22:04 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/delete_depart.php:9
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/delete_depart.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 9
+[03-Aug-2023 13:41:28 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 7
+[03-Aug-2023 13:41:28 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_campus.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_campus.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 11
+[03-Aug-2023 13:41:30 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 7
+[03-Aug-2023 13:41:30 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_event.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_event.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 11
+[03-Aug-2023 13:41:46 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 7
+[03-Aug-2023 13:41:46 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_news.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_news.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 11
+[03-Aug-2023 13:41:47 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 7
+[03-Aug-2023 13:41:47 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_prog.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_prog.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 11
+[03-Aug-2023 13:41:59 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 7
+[03-Aug-2023 13:41:59 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_pub.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_pub.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 11
+[03-Aug-2023 13:42:03 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 7
+[03-Aug-2023 13:42:03 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_school.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_school.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 11
+[03-Aug-2023 13:42:04 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 7
+[03-Aug-2023 13:42:04 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_slide.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_slide.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 11
+[03-Aug-2023 13:42:15 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 5
+[03-Aug-2023 13:42:15 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/delete_depart.php:9
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/delete_depart.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 9
+[03-Aug-2023 13:44:23 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 7
+[03-Aug-2023 13:44:23 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_campus.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_campus.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 11
+[03-Aug-2023 13:44:31 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 7
+[03-Aug-2023 13:44:31 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_event.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_event.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 11
+[03-Aug-2023 13:44:41 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 7
+[03-Aug-2023 13:44:41 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_news.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_news.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 11
+[03-Aug-2023 13:44:41 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 7
+[03-Aug-2023 13:44:41 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_prog.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_prog.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 11
+[03-Aug-2023 13:44:49 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 7
+[03-Aug-2023 13:44:49 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_pub.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_pub.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 11
+[03-Aug-2023 13:44:58 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 7
+[03-Aug-2023 13:44:58 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_slide.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_slide.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 11
+[03-Aug-2023 13:45:01 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 7
+[03-Aug-2023 13:45:01 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_school.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_school.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 11
+[03-Aug-2023 13:45:06 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 5
+[03-Aug-2023 13:45:06 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/delete_depart.php:9
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/delete_depart.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 9
+[04-Aug-2023 12:24:40 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 7
+[04-Aug-2023 12:24:40 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_campus.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_campus.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 11
+[04-Aug-2023 12:24:40 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 7
+[04-Aug-2023 12:24:40 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_event.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_event.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 11
+[04-Aug-2023 12:24:41 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 7
+[04-Aug-2023 12:24:41 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_gallery.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_gallery.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 11
+[04-Aug-2023 12:24:42 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 7
+[04-Aug-2023 12:24:42 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_news.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_news.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 11
+[04-Aug-2023 12:24:43 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 7
+[04-Aug-2023 12:24:43 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_prog.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_prog.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 11
+[04-Aug-2023 12:24:44 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 7
+[04-Aug-2023 12:24:44 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_pub.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_pub.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 11
+[04-Aug-2023 12:24:44 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 7
+[04-Aug-2023 12:24:44 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_school.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_school.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 11
+[04-Aug-2023 12:24:45 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 7
+[04-Aug-2023 12:24:45 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_slide.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_slide.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 11
+[04-Aug-2023 12:24:45 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 5
+[04-Aug-2023 12:24:45 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/delete_depart.php:9
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/delete_depart.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 9
+[04-Aug-2023 12:28:05 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 7
+[04-Aug-2023 12:28:05 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_event.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_event.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 11
+[04-Aug-2023 12:28:05 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 7
+[04-Aug-2023 12:28:05 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_news.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_news.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 11
+[04-Aug-2023 12:28:05 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 7
+[04-Aug-2023 12:28:05 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_gallery.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_gallery.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 11
+[04-Aug-2023 12:28:06 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 7
+[04-Aug-2023 12:28:06 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_prog.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_prog.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 11
+[04-Aug-2023 12:28:22 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 7
+[04-Aug-2023 12:28:22 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_pub.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_pub.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 11
+[04-Aug-2023 12:28:22 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 7
+[04-Aug-2023 12:28:22 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_school.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_school.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 11
+[04-Aug-2023 12:28:22 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 7
+[04-Aug-2023 12:28:22 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_slide.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_slide.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 11
+[04-Aug-2023 12:28:23 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 5
+[04-Aug-2023 12:28:23 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/delete_depart.php:9
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/delete_depart.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 9
+[04-Aug-2023 12:30:08 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 7
+[04-Aug-2023 12:30:08 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_event.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_event.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 11
+[04-Aug-2023 12:30:08 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 7
+[04-Aug-2023 12:30:08 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_gallery.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_gallery.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 11
+[04-Aug-2023 12:30:16 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 7
+[04-Aug-2023 12:30:16 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_news.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_news.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 11
+[04-Aug-2023 12:30:16 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 7
+[04-Aug-2023 12:30:16 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_prog.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_prog.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 11
+[04-Aug-2023 12:30:25 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 7
+[04-Aug-2023 12:30:25 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_pub.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_pub.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 11
+[04-Aug-2023 12:30:25 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 7
+[04-Aug-2023 12:30:25 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_school.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_school.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 11
+[04-Aug-2023 12:30:33 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 7
+[04-Aug-2023 12:30:33 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_slide.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_slide.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 11
+[04-Aug-2023 12:30:34 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 5
+[04-Aug-2023 12:30:34 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/delete_depart.php:9
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/delete_depart.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 9
+[07-Aug-2023 04:23:32 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 7
+[07-Aug-2023 04:23:32 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_campus.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_campus.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 11
+[07-Aug-2023 04:23:33 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 7
+[07-Aug-2023 04:23:33 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_event.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_event.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 11
+[07-Aug-2023 04:23:33 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 7
+[07-Aug-2023 04:23:33 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_gallery.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_gallery.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 11
+[07-Aug-2023 04:23:34 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 7
+[07-Aug-2023 04:23:34 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_news.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_news.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 11
+[07-Aug-2023 04:23:34 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 7
+[07-Aug-2023 04:23:34 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_prog.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_prog.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 11
+[07-Aug-2023 04:23:34 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 7
+[07-Aug-2023 04:23:34 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_pub.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_pub.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 11
+[07-Aug-2023 04:23:35 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 7
+[07-Aug-2023 04:23:35 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_school.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_school.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 11
+[07-Aug-2023 04:23:35 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 7
+[07-Aug-2023 04:23:35 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_slide.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_slide.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 11
+[07-Aug-2023 04:23:36 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 5
+[07-Aug-2023 04:23:36 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/delete_depart.php:9
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/delete_depart.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 9
+[07-Aug-2023 04:27:05 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 7
+[07-Aug-2023 04:27:05 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_event.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_event.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 11
+[07-Aug-2023 04:27:07 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 7
+[07-Aug-2023 04:27:07 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_gallery.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_gallery.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 11
+[07-Aug-2023 04:27:22 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 7
+[07-Aug-2023 04:27:22 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_news.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_news.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 11
+[07-Aug-2023 04:27:22 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 7
+[07-Aug-2023 04:27:22 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_prog.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_prog.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 11
+[07-Aug-2023 04:27:22 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 7
+[07-Aug-2023 04:27:22 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_pub.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_pub.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 11
+[07-Aug-2023 04:27:24 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 7
+[07-Aug-2023 04:27:24 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_school.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_school.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 11
+[07-Aug-2023 04:27:38 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 7
+[07-Aug-2023 04:27:38 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_slide.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_slide.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 11
+[07-Aug-2023 04:27:39 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 5
+[07-Aug-2023 04:27:39 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/delete_depart.php:9
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/delete_depart.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 9
+[07-Aug-2023 04:29:11 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 7
+[07-Aug-2023 04:29:11 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_event.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_event.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 11
+[07-Aug-2023 04:29:14 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 7
+[07-Aug-2023 04:29:14 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_gallery.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_gallery.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 11
+[07-Aug-2023 04:29:24 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 7
+[07-Aug-2023 04:29:24 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_news.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_news.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 11
+[07-Aug-2023 04:29:24 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 7
+[07-Aug-2023 04:29:24 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_prog.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_prog.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 11
+[07-Aug-2023 04:29:28 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 7
+[07-Aug-2023 04:29:28 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_pub.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_pub.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 11
+[07-Aug-2023 04:29:31 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 7
+[07-Aug-2023 04:29:31 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_school.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_school.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 11
+[07-Aug-2023 04:29:40 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 7
+[07-Aug-2023 04:29:40 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_slide.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_slide.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 11
+[07-Aug-2023 04:29:40 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 5
+[07-Aug-2023 04:29:40 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/delete_depart.php:9
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/delete_depart.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 9
+[11-Aug-2023 18:08:14 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 7
+[11-Aug-2023 18:08:14 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_event.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_event.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 11
+[11-Aug-2023 18:08:17 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 7
+[11-Aug-2023 18:08:17 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_school.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_school.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 11
+[11-Aug-2023 19:30:00 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 7
+[11-Aug-2023 19:30:00 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_pub.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_pub.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 11
+[11-Aug-2023 20:12:48 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 7
+[11-Aug-2023 20:12:48 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_slide.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_slide.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 11
+[11-Aug-2023 21:53:59 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 7
+[11-Aug-2023 21:53:59 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_news.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_news.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 11
+[12-Aug-2023 01:55:50 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 7
+[12-Aug-2023 01:55:50 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_prog.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_prog.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 11
+[12-Aug-2023 07:26:37 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 5
+[12-Aug-2023 07:26:37 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/delete_depart.php:9
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/delete_depart.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 9
+[12-Aug-2023 08:30:19 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 7
+[12-Aug-2023 08:30:19 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_gallery.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_gallery.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 11
+[12-Aug-2023 09:31:49 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 7
+[12-Aug-2023 09:31:49 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_campus.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_campus.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 11
+[14-Aug-2023 14:59:13 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 7
+[14-Aug-2023 14:59:13 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_prog.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_prog.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 11
+[14-Aug-2023 18:39:36 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 5
+[14-Aug-2023 18:39:36 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/delete_depart.php:9
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/delete_depart.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 9
+[14-Aug-2023 18:43:38 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 7
+[14-Aug-2023 18:43:38 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_slide.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_slide.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 11
+[14-Aug-2023 19:20:30 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 7
+[14-Aug-2023 19:20:30 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_school.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_school.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 11
+[14-Aug-2023 21:33:23 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 7
+[14-Aug-2023 21:33:23 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_news.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_news.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 11
+[15-Aug-2023 00:43:04 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 7
+[15-Aug-2023 00:43:04 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_pub.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_pub.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 11
+[15-Aug-2023 01:34:48 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 7
+[15-Aug-2023 01:34:48 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_campus.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_campus.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 11
+[15-Aug-2023 02:19:21 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 7
+[15-Aug-2023 02:19:21 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_gallery.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_gallery.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 11
+[15-Aug-2023 07:18:03 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 7
+[15-Aug-2023 07:18:03 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_event.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_event.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 11
+[20-Aug-2023 09:01:58 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 7
+[20-Aug-2023 09:01:58 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_gallery.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_gallery.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 11
+[20-Aug-2023 09:04:41 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 7
+[20-Aug-2023 09:04:41 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_pub.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_pub.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 11
+[20-Aug-2023 11:00:48 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 7
+[20-Aug-2023 11:00:48 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_slide.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_slide.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 11
+[20-Aug-2023 11:18:58 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 7
+[20-Aug-2023 11:18:58 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_campus.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_campus.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 11
+[20-Aug-2023 13:48:46 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 5
+[20-Aug-2023 13:48:46 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/delete_depart.php:9
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/delete_depart.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 9
+[20-Aug-2023 13:48:49 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 5
+[20-Aug-2023 13:48:49 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/delete_depart.php:9
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/delete_depart.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 9
+[20-Aug-2023 13:52:45 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 7
+[20-Aug-2023 13:52:45 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_prog.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_prog.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 11
+[20-Aug-2023 14:12:46 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 5
+[20-Aug-2023 14:12:46 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/delete_depart.php:9
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/delete_depart.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 9
+[21-Aug-2023 01:25:51 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 7
+[21-Aug-2023 01:25:51 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_school.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_school.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 11
+[21-Aug-2023 01:39:21 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 7
+[21-Aug-2023 01:39:21 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_news.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_news.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 11
+[21-Aug-2023 03:34:27 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 7
+[21-Aug-2023 03:34:27 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_event.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_event.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 11
+[11-Sep-2023 17:49:21 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 7
+[11-Sep-2023 17:49:21 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_campus.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_campus.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 11
+[11-Sep-2023 17:53:04 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 7
+[11-Sep-2023 17:53:04 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_campus.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_campus.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 11
+[13-Sep-2023 14:38:27 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 7
+[13-Sep-2023 14:38:27 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_gallery.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_gallery.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 11
+[13-Sep-2023 14:38:41 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 5
+[13-Sep-2023 14:38:41 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/delete_depart.php:9
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/delete_depart.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 9
+[13-Sep-2023 14:38:47 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 7
+[13-Sep-2023 14:38:47 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_event.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_event.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 11
+[13-Sep-2023 15:12:08 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 7
+[13-Sep-2023 15:12:08 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_news.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_news.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 11
+[13-Sep-2023 15:12:14 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 7
+[13-Sep-2023 15:12:14 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_slide.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_slide.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 11
+[13-Sep-2023 15:12:20 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 7
+[13-Sep-2023 15:12:20 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_pub.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_pub.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 11
+[13-Sep-2023 15:12:23 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 7
+[13-Sep-2023 15:12:23 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_school.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_school.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 11
+[13-Sep-2023 15:12:34 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 7
+[13-Sep-2023 15:12:34 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_prog.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_prog.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 11
+[13-Sep-2023 19:45:49 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 7
+[13-Sep-2023 19:45:49 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_event.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_event.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 11
+[13-Sep-2023 19:46:05 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 7
+[13-Sep-2023 19:46:05 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_news.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_news.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 11
+[13-Sep-2023 19:46:18 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 7
+[13-Sep-2023 19:46:18 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_campus.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_campus.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 11
+[13-Sep-2023 19:46:27 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 7
+[13-Sep-2023 19:46:27 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_pub.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_pub.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 11
+[13-Sep-2023 19:46:33 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 7
+[13-Sep-2023 19:46:33 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_slide.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_slide.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 11
+[13-Sep-2023 20:39:32 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 7
+[13-Sep-2023 20:39:32 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_event.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_event.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 11
+[13-Sep-2023 20:47:01 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 7
+[13-Sep-2023 20:47:01 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_prog.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_prog.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 11
+[13-Sep-2023 20:47:27 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 7
+[13-Sep-2023 20:47:27 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_school.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_school.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 11
+[13-Sep-2023 20:55:32 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 7
+[13-Sep-2023 20:55:32 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_gallery.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_gallery.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 11
+[13-Sep-2023 21:19:44 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 5
+[13-Sep-2023 21:19:44 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/delete_depart.php:9
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/delete_depart.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 9
+[13-Sep-2023 22:20:03 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 7
+[13-Sep-2023 22:20:03 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_gallery.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_gallery.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 11
+[13-Sep-2023 23:06:22 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 7
+[13-Sep-2023 23:06:22 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_news.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_news.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 11
+[14-Sep-2023 03:29:28 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 7
+[14-Sep-2023 03:29:28 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_slide.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_slide.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 11
+[14-Sep-2023 03:41:21 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 7
+[14-Sep-2023 03:41:21 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_school.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_school.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 11
+[14-Sep-2023 03:48:48 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 7
+[14-Sep-2023 03:48:48 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_prog.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_prog.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 11
+[21-Sep-2023 23:03:34 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 7
+[21-Sep-2023 23:03:34 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_gallery.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_gallery.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 11
+[21-Sep-2023 23:03:49 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 7
+[21-Sep-2023 23:03:49 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_pub.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_pub.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 11
+[21-Sep-2023 23:39:30 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 7
+[21-Sep-2023 23:39:30 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_news.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_news.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 11
+[21-Sep-2023 23:42:41 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 7
+[21-Sep-2023 23:42:41 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_slide.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_slide.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 11
+[25-Sep-2023 19:01:21 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 7
+[25-Sep-2023 19:01:21 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_campus.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_campus.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 11
+[26-Sep-2023 02:53:02 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 7
+[26-Sep-2023 02:53:02 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_pub.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_pub.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 11
+[26-Sep-2023 03:28:22 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 5
+[26-Sep-2023 03:28:22 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/delete_depart.php:9
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/delete_depart.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 9
+[26-Sep-2023 03:37:43 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 5
+[26-Sep-2023 03:37:43 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/delete_depart.php:9
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/delete_depart.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 9
+[26-Sep-2023 18:05:18 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 7
+[26-Sep-2023 18:05:18 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_campus.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_campus.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 11
+[26-Sep-2023 18:12:16 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 7
+[26-Sep-2023 18:12:16 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_gallery.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_gallery.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 11
+[26-Sep-2023 18:54:08 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 7
+[26-Sep-2023 18:54:08 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_school.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_school.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 11
+[26-Sep-2023 19:18:14 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 7
+[26-Sep-2023 19:18:14 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_campus.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_campus.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 11
+[27-Sep-2023 07:44:11 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 7
+[27-Sep-2023 07:44:11 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_campus.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_campus.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 11
+[27-Sep-2023 09:51:23 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 7
+[27-Sep-2023 09:51:23 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_slide.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_slide.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 11
+[27-Sep-2023 10:12:42 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 7
+[27-Sep-2023 10:12:42 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_pub.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_pub.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 11
+[27-Sep-2023 10:21:39 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 7
+[27-Sep-2023 10:21:39 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_news.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_news.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 11
+[27-Sep-2023 12:52:26 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 7
+[27-Sep-2023 12:52:26 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_event.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_event.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 11
+[27-Sep-2023 15:45:40 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 7
+[27-Sep-2023 15:45:40 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_gallery.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_gallery.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 11
+[27-Sep-2023 16:01:18 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 7
+[27-Sep-2023 16:01:18 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_school.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_school.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 11
+[27-Sep-2023 17:02:48 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 7
+[27-Sep-2023 17:02:48 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_news.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_news.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 11
+[27-Sep-2023 17:26:58 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 7
+[27-Sep-2023 17:26:58 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_gallery.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_gallery.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 11
+[27-Sep-2023 18:35:02 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 7
+[27-Sep-2023 18:35:02 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_school.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_school.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 11
+[27-Sep-2023 18:50:38 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 7
+[27-Sep-2023 18:50:38 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_gallery.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_gallery.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 11
+[27-Sep-2023 18:52:54 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 5
+[27-Sep-2023 18:52:54 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/delete_depart.php:9
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/delete_depart.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 9
+[27-Sep-2023 20:22:14 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 7
+[27-Sep-2023 20:22:14 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_event.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_event.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 11
+[27-Sep-2023 20:47:15 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 7
+[27-Sep-2023 20:47:15 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_news.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_news.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 11
+[27-Sep-2023 21:40:03 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 7
+[27-Sep-2023 21:40:03 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_school.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_school.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 11
+[27-Sep-2023 21:51:03 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 7
+[27-Sep-2023 21:51:03 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_prog.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_prog.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 11
+[27-Sep-2023 23:20:22 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 7
+[27-Sep-2023 23:20:22 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_campus.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_campus.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 11
+[28-Sep-2023 01:27:33 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 7
+[28-Sep-2023 01:27:33 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_prog.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_prog.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 11
+[28-Sep-2023 01:49:21 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 7
+[28-Sep-2023 01:49:21 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_prog.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_prog.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 11
+[28-Sep-2023 02:54:20 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 7
+[28-Sep-2023 02:54:20 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_news.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_news.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 11
+[28-Sep-2023 04:12:08 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 7
+[28-Sep-2023 04:12:08 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_slide.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_slide.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 11
+[28-Sep-2023 07:14:34 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 7
+[28-Sep-2023 07:14:34 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_school.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_school.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 11
+[28-Sep-2023 12:14:28 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 5
+[28-Sep-2023 12:14:28 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/delete_depart.php:9
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/delete_depart.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 9
+[28-Sep-2023 13:00:49 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 7
+[28-Sep-2023 13:00:49 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_pub.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_pub.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_pub.php on line 11
+[28-Sep-2023 14:10:51 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 7
+[28-Sep-2023 14:10:51 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_slide.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_slide.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 11
+[28-Sep-2023 14:45:58 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 7
+[28-Sep-2023 14:45:58 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_event.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_event.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 11
+[28-Sep-2023 16:13:22 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 7
+[28-Sep-2023 16:13:22 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_news.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_news.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_news.php on line 11
+[03-Oct-2023 01:36:56 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 7
+[03-Oct-2023 01:36:56 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_campus.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_campus.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 11
+[03-Oct-2023 02:08:55 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 7
+[03-Oct-2023 02:08:55 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_campus.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_campus.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_campus.php on line 11
+[03-Oct-2023 03:27:55 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 7
+[03-Oct-2023 03:27:55 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_event.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_event.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 11
+[03-Oct-2023 04:59:21 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 7
+[03-Oct-2023 04:59:21 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_gallery.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_gallery.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_gallery.php on line 11
+[03-Oct-2023 07:10:49 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 5
+[03-Oct-2023 07:10:49 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/delete_depart.php:9
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/delete_depart.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 9
+[03-Oct-2023 08:08:04 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 7
+[03-Oct-2023 08:08:04 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_school.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_school.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_school.php on line 11
+[03-Oct-2023 09:43:41 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 7
+[03-Oct-2023 09:43:41 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_event.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_event.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_event.php on line 11
+[03-Oct-2023 09:44:32 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 5
+[03-Oct-2023 09:44:32 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/delete_depart.php:9
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/delete_depart.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/delete_depart.php on line 9
+[03-Oct-2023 11:10:42 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 7
+[03-Oct-2023 11:10:42 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_slide.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_slide.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_slide.php on line 11
+[03-Oct-2023 11:39:11 America/New_York] PHP Warning:  Undefined array key "id" in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 7
+[03-Oct-2023 11:39:11 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/bugerifg/public_html/webmaster/includes/del_prog.php:11
+Stack trace:
+#0 /home/bugerifg/public_html/webmaster/includes/del_prog.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/bugerifg/public_html/webmaster/includes/del_prog.php on line 11
